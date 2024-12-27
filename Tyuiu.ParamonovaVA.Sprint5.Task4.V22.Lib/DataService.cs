@@ -11,6 +11,7 @@ namespace Tyuiu.ParamonovaVA.Sprint5.Task4.V22.Lib
             double x = double.Parse(strX);
             double res = Math.Round(Math.Pow(x, 3) * Math.Sin(x) - 4 * x, 3);
             return res;
+
         }
     }
 }

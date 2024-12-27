@@ -21,6 +21,7 @@ namespace Tyuiu.ParamonovaVA.Sprint5.Task1.V21
             int startValue = -5;
             int stopValue = 5;
 
+
             Console.WriteLine("startValue = " + startValue);
             Console.WriteLine("stopValue = " + stopValue);
 
